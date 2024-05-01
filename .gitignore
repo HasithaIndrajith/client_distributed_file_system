@@ -4,6 +4,8 @@ target/
 !**/src/main/**/target/
 !**/src/test/**/target/
 test.txt
+config.properties
+
 ### STS ###
 .apt_generated
 .classpath
@@ -15,7 +17,7 @@ test.txt
 
 ### IntelliJ IDEA ###
 
-config.properties
+
 .idea
 *.iws
 *.iml
